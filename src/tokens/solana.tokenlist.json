@@ -83,7 +83,10 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwxNF8g9UfmsJVcZFTpL9Hx5MCkoQFoJi6XNWzKf1j8e/logo.png",
       "tags": [
         "stablecoin"
-      ]
+      ],
+      "extensions": {
+        "website": "https://app.allbridge.io/"
+      }
     },
     {
       "chainId": 101,
